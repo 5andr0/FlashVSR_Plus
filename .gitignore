@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+ckpts/*
+!ckpts/.gitkeep
+outputs/
+tests/
+operators/Block-Sparse-Attention
+*.egg-info
