@@ -31,6 +31,7 @@
 
 </div>
 
+**Your star means a lot for us to develop this project!** :star:
 ## Overview
 
 [![FlashVSR+ teaser: visual comparisons and inference performance](assets/teaser.png)](assets/teaser.pdf)
